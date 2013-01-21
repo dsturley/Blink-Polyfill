@@ -1,4 +1,8 @@
 Blink-Polyfill
 ==============
 
-Please don't use this.
+	   (\/)
+	  (=..=)
+	 o(  ()()
+
+	DO NOT USE OR THE BUNNY WILL GET YOU
