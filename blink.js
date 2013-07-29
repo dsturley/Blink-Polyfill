@@ -1,1 +1,1 @@
-setInterval("s=document.getElementsByTagName('blink');for(i=0;i<s.length;i++)s[i].style.visibility=s[i].style.visibility?'':'hidden'", 500);
+setInterval("s=document.getElementsByTagName('blink'), l=s.length;for(i=0;i<l;i++)s[i].style.visibility=s[i].style.visibility?'':'hidden'", 500);
